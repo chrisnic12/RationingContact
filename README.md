@@ -2,7 +2,7 @@
 
 # Rationing Social Contact During the COVID-19 Pandemic: Transmission Risk and Social Benefits of US Locations
 
-## Data 
+# Data 
 
 ### SafeGraph Data 
 
@@ -49,3 +49,5 @@ This includes the following information:
 
 All figures of the manuscript can be reproduced using that dataset and the "Analysis.R" script.  
 
+
+# Supplementary Figures 
