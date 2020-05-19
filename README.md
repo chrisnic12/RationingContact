@@ -39,15 +39,22 @@ This includes the following information:
 
 9. "median_distance_travel_fromhome" is the average -- over the locations in a category -- median distance that visitors travel to visit the location
 
-###### 4 importance indicators
+###### 4 importance measures
 
-1. "full_preferences"
+1. "full_preferences" is the % of the time the category wins in the binary discrete choice survey
 2. "employement"
 3. "annual_payroll"
 4. "preliminary_receipts"
 
+2,3 & 4 important measures are all coming from here: https://www.census.gov/data/tables/2017/econ/susb/2017-susb-annual.html
 
 All figures of the manuscript can be reproduced using that dataset and the "Analysis.R" script.  
 
 
 # Supplementary Figures 
+
+The file "sup_figures.pdf" includes:
+
+S1
+S2
+S3
