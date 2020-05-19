@@ -1,8 +1,8 @@
-# Additional Material & Data for 
+# Additional Material & Data for: 
 
 # Rationing Social Contact During the COVID-19 Pandemic: Transmission Risk and Social Benefits of US Locations
 
-## Data Description
+## Data 
 
 ### SafeGraph Data 
 
