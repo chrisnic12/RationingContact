@@ -22,13 +22,22 @@ This includes the following information:
 
 1. "total_raw_visits_feb" the total number visits in each category for Feb 2020
 2. "total_raw_visitors_feb" the total number of visitors in each category for Feb 2020
-3  "Cum_Risk_Metric_low_dens_feb" is the cumulative over all locations within the category total person-hours during the times that there are more than 1 people over 215 square feet in the location
+3.  "Cum_Risk_Metric_low_dens_feb" is the cumulative over all locations within the category total person-hours during the times that there are more than 1 people over 215 square feet in the location
 4. "Cum_Risk_Metric_high_dens_feb" is the cumulative over all locations within the category total person-hours during the times that there are more than 1 people over 113 square feet in the location
 
+5. "over65_total_raw_visits_feb" the total number of visits by over 65 people in each category for Feb 2020 
+6. "over65_total_raw_visitors_feb" the total number of over 65 age visitors in each category for Feb 2020
+7. "over65_Cum_Risk_Metric_low_dens_feb" is the cumulative over all locations within the category total over 65 person-hours during the times that there are more than 1 people over 215 square feet in the location
+8. "over65_Cum_Risk_Metric_high_dens_feb" is the cumulative over all locations within the category total over 65 person-hours during the times that there are more than 1 people over 113 square feet in the location
 
+9. "median_distance_travel_fromhome" is the average -- over the locations in a category -- median distance that visitors travel to visit the location
 
+###### 4 importance indicators
 
-
+1. "full_preferences"
+2. "employement"
+3. "annual_payroll"
+4. "preliminary_receipts"
 
 
 All figures of the manuscript can be reproduced using that dataset and the "Analysis.R" script.  
