@@ -12,6 +12,13 @@ SafeGraph data access can be requested here: https://www.safegraph.com/covid-19-
 
 *AVI can you please add a desription to the dataset and the file name?
 
+### Business Census
+
+*SETH can you please add a desription to the dataset and the file name -- or just have a link to the dataset?
+
+### BLS Data
+*SETH can you please add a desription to the dataset and the file name -- or just have a link to the dataset?
+
 ### Derived statistics for the 26 categories 
 
 Statistics regarding the 26 categories described in the main text are located in "26_categories_dataset.csv."
