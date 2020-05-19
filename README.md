@@ -8,7 +8,7 @@
 
 SafeGraph data access can be requested here: https://www.safegraph.com/covid-19-data-consortium
 
-### Lucid data 
+### Survey data 
 
 *AVI can you please add a desription to the dataset and the file name?
 
