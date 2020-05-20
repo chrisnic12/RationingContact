@@ -63,16 +63,13 @@ All figures of the manuscript can be reproduced using that dataset and the "Anal
 
 # Supplementary Figures & Materials
 
-The file "sup_mat.pdf" includes:
+The file "Supplementary_Tables_and_Figures.pdf" includes:
 
-- Supplementary figures:
+- The supplementary table is a crosswalk from location categories to 6-digit NAICS codes and cumulative visits by location type in February 2020
 
-S1:
+- The supplementary figure has two panels ploting the share of employment in an industry which require close physical proximity to perform at two thresholds.
 
-S2:
-
-S3:
-
+The file 
 - Survey Instrument
 
 
