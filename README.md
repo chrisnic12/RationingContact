@@ -8,9 +8,16 @@
 
 SafeGraph data access can be requested here: https://www.safegraph.com/covid-19-data-consortium
 
-### Survey data 
+### Survey data and instrument
 
-*AVI can you please add a desription to the dataset and the file name?
+A sample survey instrument for a respondent is provided in the file "Survey.pdf". Note that every respondent saw a different version of this survey instrument since the single binary discrete choice experiments are randomly generated for each respondent.
+
+Survey data is located in "Survey_data.xlsx". The first sheet "main" contains the following information:
+zip: zipcode of respondent
+choice_1 to choice_30: Each of the 30 choices selected in the single binary discrete choice experiments
+choice_1.1, choice_1.2 to choice_30.1, choice_30.2: The choices shown to a respondent
+
+The second sheet "location codes" contains the mapping between the numeric location codes and the name of the category.
 
 ### Business Census
 
