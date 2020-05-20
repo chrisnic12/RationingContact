@@ -69,8 +69,7 @@ The file "Supplementary_Tables_and_Figures.pdf" includes:
 
 - The supplementary figure has two panels ploting the share of employment in an industry which require close physical proximity to perform at two thresholds.
 
-The file 
-- Survey Instrument
+The file "Survey.pdf" 
 
 
 # Inquiries
