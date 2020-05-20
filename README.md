@@ -55,9 +55,9 @@ All figures of the manuscript can be reproduced using that dataset and the "Anal
 
 The file "sup_figures.pdf" includes:
 
-S1
-S2
-S3
+- S1:
+- S2:
+- S3:
 
 
 # Inquiries
