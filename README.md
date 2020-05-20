@@ -61,7 +61,7 @@ This includes the following information:
 All figures of the manuscript can be reproduced using that dataset and the "Analysis.R" script.  
 
 
-# Supplementary Figures & Materials
+# Supplementary Figure & Table
 
 The file "Supplementary_Tables_and_Figures.pdf" includes:
 
@@ -69,7 +69,6 @@ The file "Supplementary_Tables_and_Figures.pdf" includes:
 
 - The supplementary figure has two panels ploting the share of employment in an industry which require close physical proximity to perform at two thresholds.
 
-The file "Survey.pdf" 
 
 
 # Inquiries
