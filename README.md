@@ -51,13 +51,17 @@ This includes the following information:
 All figures of the manuscript can be reproduced using that dataset and the "Analysis.R" script.  
 
 
-# Supplementary Figures 
+# Supplementary Figures & Materials
 
-The file "sup_figures.pdf" includes:
+The file "sup_mat.pdf" includes:
 
-- S1:
-- S2:
-- S3:
+-Supplementary figures:
+
+-- S1:
+-- S2:
+-- S3:
+
+Survey Instrument
 
 
 # Inquiries
