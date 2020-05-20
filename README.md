@@ -58,3 +58,12 @@ The file "sup_figures.pdf" includes:
 S1
 S2
 S3
+
+
+# Inquiries
+
+If you have questions about the survey data collection and analysis, please contact Avinash Collis at: avinashg [at] mit [dot] edu
+
+If you have questions about the economic indexes data collection and analysis, please contact Seth G Benzell at: sbenzell [at] mit [dot] edu
+
+If you have questions about the SafeGraph data collection and analysis, please contact Christos Nicolaides at: chrisnic [at] mit [dot] edu
