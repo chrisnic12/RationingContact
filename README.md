@@ -55,11 +55,13 @@ All figures of the manuscript can be reproduced using that dataset and the "Anal
 
 The file "sup_mat.pdf" includes:
 
--Supplementary figures:
+- Supplementary figures:
 
--- S1:
--- S2:
--- S3:
+S1:
+
+S2:
+
+S3:
 
 Survey Instrument
 
