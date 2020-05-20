@@ -14,7 +14,7 @@ SafeGraph data access can be requested here: https://www.safegraph.com/covid-19-
 
 ### Business Census
 
-*SETH can you please add a desription to the dataset and the file name -- or just have a link to the dataset?
+The raw census data used for this analysis can be retrieved from https://www.census.gov/data/tables/2017/econ/susb/2017-susb-annual.html
 
 ### BLS Data
 *SETH can you please add a desription to the dataset and the file name -- or just have a link to the dataset?
